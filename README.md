@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello,
 
-<!--
-**haticedastan/haticedastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hatice! I hope you're fine. I generally use HTML, CSS and JS. :heart:
 
-Here are some ideas to get you started:
+You can follow my social accounts! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [ ] [GitHub](http://github.com/haticedastan) 
+ - [ ] [Linkedin](https://www.linkedin.com/in/haticedastan/) 
+ 
+ - [ ] [Website](bidoluyazilim.com)
+
+ 
+
+:heart:
