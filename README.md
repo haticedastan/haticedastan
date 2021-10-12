@@ -9,7 +9,7 @@ You can follow my social accounts! ✨
  
  - [ ] [Website](bidoluyazilim.com)
 
- <img src="https://img.shields.io/static/v1?label=&message=<JavaScript>&color=<yellow>">
+ <img src="https://img.shields.io/static/v1?label=&message=<JavaScript>&color=yellow">
 
  <img src="https://img.shields.io/static/v1?label=&message=<JavaScript>&color=<>">
 
