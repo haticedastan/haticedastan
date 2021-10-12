@@ -10,5 +10,6 @@ You can follow my social accounts! ✨
  - [ ] [Website](bidoluyazilim.com)
 
  
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 :heart:
