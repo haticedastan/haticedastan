@@ -29,9 +29,11 @@ You can follow my social accounts! ✨
  - [ ] [Website](bidoluyazilim.com)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
-:heart: :heart: :heart:
+
+:heart:
 
 
