@@ -17,6 +17,7 @@ I'm Hatice! I hope you're fine. I generally use web technologies. :heart:
  <img src="https://img.shields.io/static/v1?label=&message=<SQL>&color=red">
  <img src="https://img.shields.io/static/v1?label=&message=<MongoDB>&color=yellowgreen">
  <img src="https://img.shields.io/static/v1?label=&message=<Postman>&color=blueviolet">
+ <img src="https://img.shields.io/static/v1?label=&message=<VSCode>&color=yellow">
 
 </p>
 
@@ -25,11 +26,12 @@ You can follow my social accounts! ✨
 
  - [ ] [GitHub](http://github.com/haticedastan) 
  - [ ] [Linkedin](https://www.linkedin.com/in/haticedastan/) 
- 
  - [ ] [Website](bidoluyazilim.com)
 
 
 
 
 
-:heart:
+:heart: :heart: :heart:
+
+
