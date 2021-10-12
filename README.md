@@ -19,7 +19,6 @@ You can follow my social accounts! ✨
  <img src="https://img.shields.io/static/v1?label=&message=<JSON>&color=green">
  <img src="https://img.shields.io/static/v1?label=&message=<NodeJS>&color=critical">
  <img src="https://img.shields.io/static/v1?label=&message=<ExpressJS>&color=ff69b4">
- <img src="https://img.shields.io/static/v1?label=&message=<C##>&color=9cf">
  <img src="https://img.shields.io/static/v1?label=&message=<SQL>&color=red">
  <img src="https://img.shields.io/static/v1?label=&message=<MongoDB>&color=yellowgreen">
  <img src="https://img.shields.io/static/v1?label=&message=<Postman>&color=blueviolet">
