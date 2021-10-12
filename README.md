@@ -22,17 +22,22 @@ I'm Hatice! I hope you're fine. I generally use web technologies. :heart:
 </p>
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticedastan&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haticedastan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 You can follow my social accounts! ✨
 
  - [ ] [GitHub](http://github.com/haticedastan) 
  - [ ] [Linkedin](https://www.linkedin.com/in/haticedastan/) 
  - [ ] [Website](bidoluyazilim.com)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticedastan&show_icons=true&theme=radical)
-
-
-
 
 :heart:
 
