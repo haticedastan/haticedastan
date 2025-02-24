@@ -6,10 +6,6 @@
 - 🌱 React.js Next.js, TailwindCSS ve Supabase ile projeler geliştiriyorum  
 - 📫 Bana ulaşın: [dastanhaticee@gmail.com]  
 
-📊 **GitHub İstatistiklerim**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haticedastan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haticedastan&layout=compact&theme=radical)  
-
 ### 🚀 Benim Teknoloji Stack’im  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
